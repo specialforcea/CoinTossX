@@ -4,3 +4,9 @@ deploy/
 .idea/
 *.log
 venv/
+*.class
+*.png
+*.jpg
+*.csv
+*.css
+*.html
